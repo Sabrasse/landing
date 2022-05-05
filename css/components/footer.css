@@ -1,0 +1,20 @@
+.footer {
+  height: 125px;
+  background-color:#011936;
+  display: flex;
+  justify-content: space-around;
+}
+
+.social-icons {
+  font-size: 30px;
+}
+
+.footer li {
+  display: inline-block;
+}
+
+.social-icon {
+  color : #82A3A1;
+  font-size: 45px;
+  padding: 30px;
+}

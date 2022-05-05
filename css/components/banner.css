@@ -1,0 +1,28 @@
+.banner {
+  height: 600px;
+  background-image: url('../../images/Ruby_Cover.png');
+  background-position: center;
+  background-size: cover;
+  object-fit: contain;
+  display: flex;
+}
+
+.banner-infos {
+  width: 800px;
+  margin: auto;
+  color: white;
+  font-weight: bolder;
+}
+
+.banner-infos p {
+  font-weight: bold;
+  color: white;
+}
+
+.banner h1 {
+  font-size: 50px;
+}
+
+.banner p {
+  font-size: 20px;
+}
